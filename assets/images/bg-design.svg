@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <path id="Tracé_1" data-name="Tracé 1" d="M0,411.978c184.413-196.223,317.046-121.731,367.918-29.07S502.367,584.581,584.127,586.4s403.347-98.112,448.769,41.788,238.011,450.586,238.011,450.586" fill="none" stroke="#a99b9b" stroke-width="1"/>
+    <path id="Tracé_2" data-name="Tracé 2" d="M1920,372.006c-472.855,85.393-594.586-1.817-592.769-65.408s198.04-101.745,208.941-136.266S1390.822-4.088,1390.822-4.088" fill="none" stroke="#a99b9b" stroke-width="1"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="15.5" cy="15.5" r="15.5" transform="translate(666 558)" fill="#fdc512"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="12" cy="12" r="12" transform="translate(592 228)" fill="#17bc4e"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="15.5" cy="15.5" r="15.5" transform="translate(130 105)" fill="#fdc512"/>
+    <path id="Tracé_3" data-name="Tracé 3" d="M99.792,0C209.384,92.518,269.295,6.381,374.5,40.41S589.3,229.7,589.3,229.7" transform="translate(-99.792 850.299)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="25"/>
+    <g id="Groupe_1" data-name="Groupe 1" transform="matrix(0.819, 0.574, -0.574, 0.819, 398.219, -37.206)">
+      <line id="Ligne_1" data-name="Ligne 1" y2="22.04" transform="translate(123.586 468.5)" fill="none" stroke="#fdc512" stroke-width="5"/>
+      <line id="Ligne_2" data-name="Ligne 2" x1="24.173" transform="translate(111.5 479.52)" fill="none" stroke="#fdc512" stroke-width="5"/>
+    </g>
+    <g id="Groupe_2" data-name="Groupe 2" transform="matrix(0.819, 0.574, -0.574, 0.819, 221.219, 416.794)">
+      <line id="Ligne_1-2" data-name="Ligne 1" y2="22.04" transform="translate(123.586 468.5)" fill="none" stroke="#17bc4e" stroke-width="5"/>
+      <line id="Ligne_2-2" data-name="Ligne 2" x1="24.173" transform="translate(111.5 479.52)" fill="none" stroke="#17bc4e" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

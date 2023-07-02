@@ -1,0 +1,164 @@
+
+
+@media (max-width: 1220px) {
+    body{
+        /* background-color: red; */
+    }
+
+    /* titre h1*/
+        .about__fokontany__container .container>.left h1 {
+            font-size: 2.8rem;
+        }
+
+        p{
+            font-size: 12px;
+        }
+
+        .txt >p{
+            font-size: 12px;
+        }
+}
+
+@media (max-width: 1120px) {
+
+        .about__fokontany__container .container>.right svg {
+            width: 2rem;
+            height: 2rem;
+        }
+    
+        .about__fokontany__container .container>.right .top .contents .info span {
+            font-size: 12px;
+        }
+}
+
+@media (max-width: 900px){
+    body {
+            /* background-color: red; */
+        }
+
+    .about__fokontany__container .container {
+        flex-direction: column;
+        gap: 1rem;
+    }
+    .about__fokontany__container .container>.left {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .about__fokontany__container .container>.left .top {
+        display: block;
+        height: 14rem;
+        background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../images/image10.jpg") no-repeat center;
+        background-size: cover;
+        border-radius: 10px;
+        padding: 10px;
+        }
+    
+        .about__fokontany__container .container>.left .top .date-heur p {
+            font-size: 3.7rem;
+            color: var(--bg-color);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+    
+        .about__fokontany__container .container>.left .top .date-heur span {
+            font-size: 14px;
+        }
+    
+    
+        .about__fokontany__container .container>.left .top .contents {
+            display: flex;
+            width: 100%;
+            gap: 2rem;
+            
+        }
+        .about__fokontany__container .container>.left .top svg {
+                    width: 3.5rem;
+                    height: 3.5rem;
+                }
+    
+        .about__fokontany__container .container>.left .top .contents .content {
+            display: flex;
+            gap: 0.6rem;
+        }
+    
+        .about__fokontany__container .container>.left .top .contents .info {
+            display: flex;
+            flex-direction: column;
+            line-height: 1.1;
+            margin-top: 0.5rem;
+            color: #eaeaea;
+            font-size: 18px;
+        }
+    
+        .about__fokontany__container .container>.left .top .contents .info span {
+            font-weight: bolder;
+            text-shadow: 0px 0px 5px black;
+        }
+
+        .about__fokontany__container .container>.right {
+            display: none;
+        }
+        
+    
+}
+
+@media (max-width: 650px){
+    .header__contents .left .navigation {
+        display: none;
+    }
+     .about__fokontany__container .container>.left h1 {
+        font-size: 2rem;
+       }
+       .header__contents .left .navigation {
+            gap: 2.5rem;
+        }
+      .about__fokontany__container .container>.left .top .date-heur p{
+        margin-top: 1rem;
+      }
+      .about__fokontany__container .container>.left .top .contents {
+            gap: 1rem;
+            margin-top: 2rem;   
+        }
+    
+        .about__fokontany__container .container>.left .top svg {
+            width: 2.5rem;
+            height: 2.5rem;
+        }
+    
+        .about__fokontany__container .container>.left .top .contents .info span {
+            font-size: 14px;
+        }
+
+        .about__fokontany__container .container>.left .top .contents .info small{
+            font-weight: lighter;
+            font-size: 12px;
+        }
+
+}
+
+@media (max-width: 500px){
+
+        .about__fokontany__container .container>.left .top {
+            height: auto;
+            padding: 1.5rem;
+            }
+
+        .about__fokontany__container .container>.left .top .contents {
+         flex-direction: column;
+
+        }
+
+        .about__fokontany__container .container>.left .top .contents .content {
+            display: flex;
+            gap: 0.6rem;
+        }
+
+        .about__fokontany__container .container>.left .descriptions__container .descriptions{
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 1rem;
+        }
+}
